@@ -1,2 +1,15 @@
-*.SchDocPreview
-*.Zip
+
+﻿# History
+**/History/
+
+# Backup files
+**/*.~*
+**/*.bak
+
+# Output files
+**/Project Outputs/
+**/Outputs/
+
+# Generated files
+*.zip
+*.log
